@@ -1,0 +1,4 @@
+github.com/fiseo/httpsrv v0.1.0 h1:b2bE36r8r+QV58tGQmwZV8YBIepDMt/9obO9qm39mQs=
+github.com/fiseo/httpsrv v0.1.0/go.mod h1:d2MHiqUQhKXxYGsVaW/WSvWBCSX5C9I85mwn0H/i+M0=
+github.com/husobee/vestigo v1.1.1 h1:bsReVP78YhmHUn/nQ4AxIEfObmWMSLGLGXP1OwgFa9s=
+github.com/husobee/vestigo v1.1.1/go.mod h1:JigD7C8lzUfpo1uzqYgefpyZLswrtJbAQxMw7ds7YCE=
